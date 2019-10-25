@@ -1,3 +1,3 @@
-# vuejs-on-steroids
+Harjoitustyö kurssilta udemy.com/nuxtjs-vuejs-on-steroids
 
-Harjoitustyö kurssilta https://www.udemy.com/nuxtjs-vuejs-on-steroids/
+Palvelin: vuejs-on-steroids.herokuapp.com
